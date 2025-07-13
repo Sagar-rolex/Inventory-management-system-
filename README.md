@@ -1,1 +1,1 @@
-# Inventory-management-system-
+Inventory Management System that helps businesses to keep track of their stock efficiently. It allows users to add, update, delete and view products along with their quantities along with their quantities, categories and pricing.  
